@@ -3,7 +3,7 @@
 ### 1. Add Helm Repository
 
 ```bash
-helm repo add Helm-Application-Repo 'https://raw.githubusercontent.com/<github-user-name>/Helm-Application-Repo/main'
+helm repo add Helm-Application-Repo 'https://raw.githubusercontent.com/RahmatullahF/Helm-Application-Repo/main'
 ```
 
 ### 2. Install Todo Application
