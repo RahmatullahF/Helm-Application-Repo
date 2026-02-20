@@ -16,4 +16,4 @@ helm install github-repo-release-todo Helm-Application-Repo/todochart
 ### 3. Install Guestbook Application
 
 ```bash
-helm install github-repo-release-todo Helm-Application-Repo/Guestbook
+helm install github-repo-release-guestbook Helm-Application-Repo/Guestbook
